@@ -4,7 +4,5 @@ I prefer to think of a Backbone View more as a "controller" in the Ruby on Rails
 
 As a bonus, you get a whole NodeJS project that renders a JSON object that backbone can use directly in its models.
 
-To run the project on your local machine install NodeJS, and NPM then type:
-npm install
-node app
+To run the project on your local machine install NodeJS, and NPM then type:\n npm install \n node app \n
 and browse to localhost:3000/
